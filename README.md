@@ -2,9 +2,11 @@
 
 I'm a passionate **Software Engineer** dedicated to building clean, responsive, and modern web applications using tools like **React**, **Node.js**, and **Supabase**.
 
-📍 From **Struga, North Macedonia** | Currently based in **Pristina, Kosovo**  
+📍 From Struga, North Macedonia | Currently based in **Pristina, Kosovo**  
 🎓 Graduated from the *International University of Struga*  
 🚀 Passionate about real-world fullstack development & lifelong learning
+
+
 ---
 
 ### 💼 What I Do
