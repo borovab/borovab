@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Beqir Borova
 
-I'm a passionate **Web Developer** dedicated to building clean, responsive, and modern web applications using tools like **React**, **Node.js**, and **Supabase**.
+I'm a passionate **Software Engineer** dedicated to building clean, responsive, and modern web applications using tools like **React**, **Node.js**, and **Supabase**.
 
 📍 Based in Struga, North Macedonia  
 🎓 Graduated from the International University of Struga  
