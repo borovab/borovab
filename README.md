@@ -21,7 +21,7 @@ I'm a passionate **Software Engineer** dedicated to building clean, responsive, 
 ### 🛠️ Tech Stack
 
 **Frontend**  
-React • JavaScript • HTML • CSS • Tailwind CSS • ShadCN
+Next.js • React.js • JavaScript • HTML • CSS • Tailwind CSS • ShadCN
 
 **Backend**  
 Node.js • PHP • Supabase • PostgreSQL • MySQL
