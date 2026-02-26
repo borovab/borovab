@@ -11,23 +11,28 @@ I'm a passionate **Software Engineer** dedicated to building clean, responsive, 
 
 ### 💼 What I Do
 
-- 💡 Transform ideas into fully functional web applications  
-- 🌐 Build fullstack solutions with modern tech stacks  
-- 🧠 Constantly explore and learn new tools and frameworks  
-- 📦 Host and deploy apps using **Hostinger**, **Vercel**, and other platforms
+- ⚡ Build **modern fullstack apps** (Next.js / React + Node.js + Postgres)
+- 🧩 Design **reusable UI components** and consistent design systems (Tailwind, shadcn/ui)
+- 🔌 Integrate **third-party APIs** and data providers (sports feeds, payments, etc.)
+- 🧠 Build **role-based systems** (admin panels, permissions, audit logs, finance flows)
+- 🧵 Work with **real-time features** (WebSockets, live odds, event updates, caching)
+- 🚀 Deploy to production with Vercel, Docker, and Linux servers (SSH)
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Frontend**  
-Next.js • React.js • JavaScript • Tailwind CSS • ShadCN
+Next.js • React • TypeScript • JavaScript • Tailwind CSS • shadcn/ui
 
 **Backend**  
-Node.js • PHP • Supabase • PostgreSQL • MySQL
+Node.js • NestJS • Supabase • PostgreSQL • Prisma • MySQL • PHP
 
-**Other Tools**  
-WordPress • Shopify • Git • Figma
+**Infrastructure / Tooling**  
+Docker • Git • REST/GraphQL • WebSockets • Caching (Redis-style flows) • Vercel • Hostinger
+
+**CMS / eCommerce / Design**  
+WordPress • Shopify • Figma
 
 ---
 
